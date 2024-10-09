@@ -4,4 +4,4 @@ while var>0:
     if var==5:
         continue
     print("\nCurrent Variable is:",var)
-print("\n Good bye")
+print("\nGood bye")
